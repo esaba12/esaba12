@@ -1,8 +1,8 @@
 # Ethan Saba
 
-I build software, websites, and small tools that solve practical problems.
+Hi, I'm Ethan! I build software, websites, and small tools that solve practical problems, usually as passion projects or following personal frustrations.
 
-These days I’m working on tools for keeping track of job applications, recruiting deadlines, conversations, and interview preparation. I also like building projects that sit a little outside the usual web-app stack.
+These days I’m working on tools for keeping track of job applications, fashion, and Jewish philanthropy. I also like building projects that sit a little outside the usual web-app stack.
 
 ## Projects
 
@@ -23,10 +23,11 @@ These days I’m working on tools for keeping track of job applications, recruit
 - Useful interfaces for complicated information
 - Small tools that save people time
 - Products that connect data, people, and decisions
-- Creative software and experiments with sound
+- Creative software and experiments with sound (I love creative ventures, like photography and music!)
 
 ## Links
 
 - [Portfolio](https://ethan-saba-portfolio.vercel.app)
 - [Recruiting OS](https://recruiting-os-phi.vercel.app)
 - [Course Signal demo](https://uiuc-course-demand-tool.vercel.app)
+- [Shishi - Private](https://shishi-app.vercel.app/)
