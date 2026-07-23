@@ -18,6 +18,10 @@ These days I’m working on tools for keeping track of job applications, fashion
 
 - [Ethan Saba Portfolio](https://github.com/esaba12/EthanSabaPortfolio) — My personal portfolio site, built with Next.js and TypeScript.
 
+## Other work
+
+Some additional projects were developed in separate GitHub environments associated with my school, Axonious, and Alias Intelligence. Those repositories remain private and therefore aren’t listed here.
+
 ## What I like building
 
 - Useful interfaces for complicated information
