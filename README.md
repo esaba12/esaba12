@@ -8,11 +8,11 @@ These days I’m working on tools for keeping track of job applications, fashion
 
 - [Recruiting OS](https://github.com/esaba12/recuiting-tool) — A recruiting dashboard for tracking applications, contacts, emails, calls, job postings, and interview preparation.
 
-- [KitCreator](https://github.com/esaba12/kitCreator) — A tool that turns songs into playable sampler instruments for drums, bass, guitar, piano, and synth.
+- [KitCreator](https://github.com/esaba12/kitCreator) — A tool that turns songs into playable sampler instruments for drums, bass, guitar, piano, and synth. Built particularly to work with the Roland MC101 drum machine, but has been generalized to all DAW software.
 
-- [Course Signal](https://github.com/esaba12/class-analytics) — A dashboard that uses course history to help schools and advisors understand planning signals. UIUC is the current demo.
+- [Course Signal](https://github.com/esaba12/class-analytics) — A dashboard that uses course history to help schools and advisors understand planning signals. UIUC is the current demo. Build for OpenAI build week hackathon.
 
-- [Real Estate Market Update Bot](https://github.com/esaba12/real-estate-news) — A weekly pipeline that turns commercial real-estate news into a short market update and voiceover.
+- [Real Estate Market Update Bot](https://github.com/esaba12/real-estate-news) — A weekly pipeline that turns commercial real-estate news into a short market update and voiceover. Build while working in commercial real estate.
 
 - [Bookstore Learning](https://github.com/esaba12/bookstore-learning) — A learning project with a Node/Express bookstore API and a React Native mobile client.
 
