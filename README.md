@@ -40,10 +40,6 @@ seat at the table.
 A weekly pipeline that turns commercial real-estate news into a short market update with
 voiceover. Built while working in commercial real estate, for the people I worked with.
 
-**[Keep In Touch](https://github.com/esaba12/keepintouch)**
-An SMS check-in system that decides *who* to reconnect with and *when* — cadence-decay
-prioritization with calendar-aware send timing.
-
 **[Portfolio](https://github.com/esaba12/EthanSabaPortfolio)** · [ethansaba.com](https://ethansaba.com)
 Personal site. Next.js + TypeScript.
 
