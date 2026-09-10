@@ -1,11 +1,13 @@
 # Ethan Saba
 
-CS @ University of Michigan. I build tools that turn messy information into something a
-person can actually act on — and I ship them, so real people use them.
+Sophomore studying computer science at the University of Michigan, looking for a software
+engineering internship.
 
-Mostly TypeScript/React and Python, on Postgres. Lately a lot of LLM plumbing: the
-interesting part isn't the prompt, it's everything around it — auth, rate limits, bad
-input, and what happens when the model is wrong.
+Almost everything below started as something that annoyed me: a job search I couldn't keep
+track of, a $170 alarm clock I didn't want to buy, a song I wanted to play as an
+instrument. The idea is never the hard part — the hard part is auth, malformed input, rate
+limits, a bulb that doesn't answer, and what happens when the model is wrong. That's the
+work I like.
 
 ## Projects
 
