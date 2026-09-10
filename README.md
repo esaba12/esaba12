@@ -21,7 +21,7 @@ already own. Self-hosted, LAN-only, no cloud and no subscription — replaces a 
 Restore plus $60/year of content for about $65 in parts. Python, `pytest` / `ruff` /
 `mypy --strict`, with mock drivers so the whole thing runs without hardware.
 
-**[kitCreator](https://github.com/esaba12/kitCreator)**
+**[kitCreator](https://github.com/esaba12/kitCreator)** · [live](https://kitcreator-app.vercel.app/)
 Turns any song into a playable multi-octave sampler kit — hand it an audio file, get back
 an SFZ + DecentSampler preset that loads in any sampler. Drums, bass, guitar, piano, and
 synth all work end to end. Built for a Roland MC-101, generalized to any DAW.
@@ -66,4 +66,4 @@ Alias Intelligence, and stays private there.
 
 ## Links
 
-[Portfolio](https://ethansaba.com) · [Recruiting OS](https://recruiting-os-phi.vercel.app) · [Course Signal](https://uiuc-course-demand-tool.vercel.app) · [Shishi](https://shishi-app.vercel.app/)
+[Portfolio](https://ethansaba.com) · [Recruiting OS](https://recruiting-os-phi.vercel.app) · [Course Signal](https://uiuc-course-demand-tool.vercel.app) · [kitCreator](https://kitcreator-app.vercel.app/) · [Shishi](https://shishi-app.vercel.app/)
