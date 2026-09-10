@@ -53,8 +53,8 @@ Two larger projects aren't public, but are the ones I'd most want to talk throug
   the real price, with sale and price-drop alerts. React Native + Expo on a 31-table
   Postgres schema with row-level security throughout, CI, and a test harness.
 - **Community Directory**: an access-controlled member directory with an Obsidian-style
-  graph view, with Louvain community detection and degree centrality computed at import
-  rendered as a force-directed graph over a roster held under strict RLS.
+  graph view. Louvain community detection and degree centrality are computed at import,
+  then rendered as a force-directed graph over a roster held under strict RLS.
 
 Additional work lives in separate GitHub environments tied to my school, Axonius, and
 Alias Intelligence, and stays private there.
