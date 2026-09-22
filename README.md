@@ -9,6 +9,13 @@ instrument. The idea is never the hard part. The hard part is auth, malformed in
 limits, a bulb that doesn't answer, and what happens when the model is wrong. That's the
 work I like.
 
+## Tech Stack
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
 ## Projects
 
 **[Recruiting OS](https://github.com/esaba12/recruiting-tool)** · [live](https://recruiting-os-phi.vercel.app)
