@@ -1,7 +1,7 @@
 # Ethan Saba
 
-Sophomore studying computer science at the University of Michigan, looking for a software
-engineering internship.
+Junior studying computer science at the University of Michigan, looking for a software
+engineering / forward deployed engineering internship.
 
 Almost everything below started as something that annoyed me: a job search I couldn't keep
 track of, a $170 alarm clock I didn't want to buy, a song I wanted to play as an
